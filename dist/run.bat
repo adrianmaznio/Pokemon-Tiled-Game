@@ -1,0 +1,1 @@
+java -jar "C:\Users\amazn_000\Documents\NetBeansProjects\PokemonTiledGame\dist\PokemonTiledGame.jar"
